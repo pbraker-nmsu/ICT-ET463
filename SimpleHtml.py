@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # Simple Chessboard code by Philip Braker
+#This really isn't so simple
 
 f = open("C:/tmp/demo.html","w+")
 
